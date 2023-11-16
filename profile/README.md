@@ -1,3 +1,2 @@
-## WIP
-
-Under construction
+## Lona.AI
+WIP
